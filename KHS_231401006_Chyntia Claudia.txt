@@ -1,0 +1,22 @@
+Kartu Hasil Studi
+=================
+
+Nama   : Chyntia Claudia
+NIM    : 231401006
+
+|==========================================|
+|No.|Matkul                          |Nilai|
+|==========================================|
+|1 .|Matematika Dasar                |A    |
+|2 .|Pengantar Ilmu Komputer         |B    |
+|3 .|Praktikum Dasar Pemrograman     |C    |
+|4 .|Organisasi Arsitektur Komputer  |B+   |
+|5 .|Dasar Pemrograman               |B    |
+|6 .|Logika Matematika               |C+   |
+|7 .|Pendidikan Pancasila            |C    |
+|8 .|Bahasa Indonesia                |D    |
+|==========================================|
+
+Total SKS  : 19
+IP Semester: 2.79
+
